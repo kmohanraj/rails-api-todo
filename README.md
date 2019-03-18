@@ -30,7 +30,7 @@ TODO API Application
 ```
 
 
-   Routes like three way to define api endpoints,
+   Routes like three ways to define api endpoints,
 
    method 1,
 ```
