@@ -89,9 +89,6 @@ Endpoints like,
 
 Create Json Fromat,
 
-```
-
 ![Screenshot](json-post.png)
 
-```
 
