@@ -92,3 +92,7 @@ Create Json Fromat,
 ![Screenshot](json-post.png)
 
 
+
+Add images to README.md on GitHub
+is another method,
+![Optional Text](../master/myFolder/image.png)
