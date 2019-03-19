@@ -86,6 +86,23 @@ Endpoints like,
 
 ```  
 
+Change Table Name,
+
+```
+
+rails g migration change_[old_table_name]_to_[new_table_name]
+
+
+rails g migration change_todos_to_products
+
+
+
+# migration file should be
+def change
+  rename_table :[old_table_name], :[new_table_name]
+end
+
+```
 
 Create Json Fromat,
 
